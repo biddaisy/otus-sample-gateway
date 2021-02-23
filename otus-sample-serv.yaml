@@ -1,0 +1,5 @@
+os:
+  db:
+    url: "jdbc:postgresql://my-pg-serv-postgresql:5432/db1"
+    username: postgres
+    password: test
